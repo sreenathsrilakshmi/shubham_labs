@@ -1,6 +1,6 @@
 admin_username: admin
 admin_password: admin
-
+user_action: install
 user1: tomcat
 user1_pwd: tomcat
 
